@@ -1,2 +1,0 @@
-# DataClubBola
-UAS KEAMANAN INFORMASI
